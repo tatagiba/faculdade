@@ -26,8 +26,14 @@ import javax.ws.rs.core.Application;
  * <p>
  * Resources are served relative to the servlet path specified in the {@link ApplicationPath} annotation.
  * </p>
+ *//*
+*/
+ /**
+ * @author tata
+ *
  */
+ 
 @ApplicationPath("/rest")
 public class JaxRsActivator extends Application {
-    /* class body intentionally left blank */
+//     class body intentionally left blank 
 }

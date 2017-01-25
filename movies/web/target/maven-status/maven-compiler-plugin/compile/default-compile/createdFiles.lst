@@ -1,2 +1,2 @@
-com\movies\rest\JaxRsActivator.class
-com\movies\rest\ActorService.class
+com/movies/rest/ActorService.class
+com/movies/rest/JaxRsActivator.class
